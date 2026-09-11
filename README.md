@@ -7,3 +7,5 @@ Clonar Github
 > git clone https://github.com/Vindemoto/pami-vinicius-moreira.git  
 > cd pami-vinicius-moreira  
 > code .  
+
+<img width="627" height="581" alt="470786370_preview_darkest-dungeon-2" src="https://github.com/user-attachments/assets/5e6307b9-8968-45d2-bfab-3c631d0450a7" />
