@@ -8,4 +8,4 @@ Clonar Github
 > cd pami-vinicius-moreira  
 > code .  
 
-<img width="256" height="256" alt="6u5ellqamjo91" align=center src="https://github.com/user-attachments/assets/e05f9c6f-8fa3-486f-ab34-1202290eecf4" />
+<img width="256" height="256" alt="6u5ellqamjo91" align="center" src="https://github.com/user-attachments/assets/e05f9c6f-8fa3-486f-ab34-1202290eecf4" />
