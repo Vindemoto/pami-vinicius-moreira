@@ -1,0 +1,21 @@
+{
+  "name": "pami-vinicius-moreira",
+  "version": "1.0.0",
+  "description": "Programação de Aplicativos Mobile I com o professor João Siles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vindemoto/pami-vinicius-moreira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vindemoto/pami-vinicius-moreira/issues"
+  },
+  "homepage": "https://github.com/Vindemoto/pami-vinicius-moreira#readme"
+}
